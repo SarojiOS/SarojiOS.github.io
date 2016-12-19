@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Saroj Rout</title>
+    <link>https://sarojios.github.io/categories/resume/index.xml</link>
+    <description>Recent content on Saroj Rout</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <atom:link href="https://sarojios.github.io/categories/resume/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>My Resume</title>
+      <link>https://sarojios.github.io/resume/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>https://sarojios.github.io/resume/</guid>
+      <description>
+
+&lt;h1 id=&#34;resume&#34;&gt;Resume&lt;/h1&gt;
+
+&lt;h2 id=&#34;project&#34;&gt;Project ##&lt;/h2&gt;
+
+&lt;h3 id=&#34;accenture&#34;&gt;Accenture&lt;/h3&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,67 @@
+## Basic Configuration
+
+baseurl = "https://sarojios.github.io/" 
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "."
+
+author = "Saroj Rout"
+title = "Saroj Rout"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Saroj Rout"
+intro = "A very enthusiastic iOS developer with a very diverse experience, from building appstore to enterprise applications and POCs, specially when exploring new technologies of iOS."
+description = ""
+authorimage = "saroj.jpeg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Simple minimalist theme"
+keywords = "minimalist,blog,goa,hugo,developer"
+
+## Social Accounts
+[params.social]
+github = "SarojiOS"
+instagram = "<username>"
+linkedin = "<username>"
+twitter = "@sarojcobi"
+facebook = "sarojlicky"
+google = "<username>"
+stackoverflow = "<username>"
+email = "sarojlicky@gmail.com"
+
+## Extras
+[params.extra]
+copyright = "© 2016. Saroj Rout. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+poweredby = true
+hightlightjs = true
+
+## Main Menu
+[[menu.main]]
+    name = "blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog/"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
+[[menu.main]]
+    name = "resume"
+    identifier = "resume"
+    weight = 200
+    url = "/resume/"

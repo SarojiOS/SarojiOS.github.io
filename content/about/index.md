@@ -10,9 +10,8 @@ title = "About"
 showpagemeta = false
 +++
 
-Erlich administers the Hacker Hostel, a tech incubator where Richard, Big Head, Dinesh, and Gilfoyle live and work in exchange for 10 percent of their potential businesses. Erlich clings to his glory days, when he sold aviation start-up Aviato, a move that, at least in his mind, qualifies him to be a svengali lording over other tech nerds. He still drives a car emblazoned with multiple Aviato logos and smokes copious amounts of weed.[1]
-
-In Fiduciary Duties, a drunk Richard makes Erlich a Pied Piper board member, a decision he later regrets.
-
-In Two Days of the Condor, it is revealed that Erlich no longer codes due to carpal tunnel syndrome.
+Works as a Sr. Software Developer and have around more than 6 years of experience in Mobile Technologies like iOS, Android and Hybrid Apps using Angular JS, Angular 2 and jQuery Mobile. 
+I have developed more than 20 AppStore and Enterprise apps using Objective-C, Swift, Java, Angular JS, Angular 2 and other javascript frameworks. I have been working on iOS technology since 2010 and a passionate iOS developer who loves creating elegant apps using Objective-C and Swift. 
+I have developed apps for iPhone, iPad, watchOS and tvOS. I always like to keep up with latest technologies and learning new skills to develop a better Mobile app.
+In the free time i like to read new technologies, spending time with my friends and traveling to new places where i can enjoy the beauty of nature.
 

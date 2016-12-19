@@ -15,7 +15,12 @@
       <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
       
       <guid>https://sarojios.github.io/blog/third/</guid>
-      <description>&lt;p&gt;Note: This article originally appeared in &lt;a href=&#34;http://www.coderag.com/hoolis-hot-new-hardware/&#34;&gt;CodeRag&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;pre&gt;&lt;code class=&#34;language-swift&#34;&gt;
+let something = 9;
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Note: This article originally appeared in &lt;a href=&#34;http://www.coderag.com/hoolis-hot-new-hardware/&#34;&gt;CodeRag&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;When Hooli acquired Endframe, no one could wait to see what the tech giant would do with the revolutionary, middle-out compression technology. The wait is over: In a savvy pivot, Hooli took the software and created their newest hardware: the Hooli/Endframe Box. While initially conceived as a consumer-facing platform, the Endframe technology has been repurposed to “make the world a better place through secure, high-capacity enterprise data storage servers utilizing middle-out compression technology.”&lt;/p&gt;
 

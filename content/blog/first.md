@@ -6,23 +6,21 @@ draft = true
 showpagemeta = true
 showcomments = true
 slug = ""
-tags = ["gavin", "belson", "hooli", "hardware"]
-title = "Gavin Belson"
-description = "A post about the amazingness of Gavin Belson"
+tags = ["swift"]
+title = "About Swift"
+description = "A short description about Apple's new Swift language"
 
 +++
+About Swift
 
-Note: This article originally appeared in [CodeRag](http://www.coderag.com/10-facts-you-didnt-know-about-gavin-belson/).
+Swift is a new programming language developed by Apple Inc for iOS, macOS, watchOS, and tvOS apps that builds on the best of C and Objective-C, without the constraints of C compatibility. Swift adopts safe programming patterns and adds modern features to make programming easier, more flexible, and more fun. Swift’s clean slate, backed by the mature and much-loved Cocoa and Cocoa Touch frameworks, is an opportunity to reimagine how software development works. Swift uses the same runtime as the existing Obj-C system on Mac OS and iOS, which enables Swift programs to run on many existing iOS 6 and OS X 10.8 platforms.
 
-Gavin Belson’s name has long been synonymous with innovation—but beyond his work at Hooli, do we even know the man behind the rampant success? In a Code/Rag exclusive, Belson revealed to us 10 things about himself that aren’t common knowledge.
+Swift has been years in the making. Apple laid the foundation for Swift by advancing our existing compiler, debugger, and framework infrastructure. We simplified memory management with Automatic Reference Counting (ARC). Our framework stack, built on the solid base of Foundation and Cocoa, has been modernized and standardized throughout. Objective-C itself has evolved to support blocks, collection literals, and modules, enabling framework adoption of modern language technologies without disruption. Thanks to this groundwork, we can now introduce a new language for the future of Apple software development.
 
-* He’s a nature fanatic! “It’s important to me that Hooli has an effective recycling program, and a personal passion of mine is donating to elephant sanctuaries. In fact, I’ve recently spearheaded the creation of Hooli’s newest charity: the Hooli Elephant Wildlife Trust.”
-* He likes to go analog! His company may have been founded on email, but Belson has a soft spot for the written word. “There’s something nostalgic about receiving a letter—it’s a message from the past.”
-* He’s an honorary shaman! “I studied at the Institute of Spiritual Therapy and Vision Quests, where I was honored with the title of shaman. The Institute has fundamentally furthered my understanding of the world and its capacity for greatness.”
-* His favorite pizza topping is pepperoni! “Uncured, preferably, with some aged parmesan.”
-* He drives a Tesla! “Black. I try not to bee too conspicuous. And of course, the benefit to the environment is incomparable.”
-* His health is important to him! “I eat at least one piece of unprocessed fruit a day.”
-* He has bad habits too! “I never reboot my laptop. I know it’s bad, but I’m always in a hurry.”
-* He doesn’t have a Nobel Peace Prize…yet! “It’s a common misconception, especially with the amount of charity work I do with Hooli, and sometimes people associate my status as a shaman with working towards world peace, which of course is something I’m striving for.”
-* He’s loyal to his barber! “I’ve been going to the same barber for years—he was based in Palo Alto, but I’ve convinced him to move to the South Bay.”
-* He really, really loves animals! “I would say I’m a cat person. And a dog person. I’m an animal person, and I don’t just mean that human beings are animals. Did you know the African bush elephant is still an endangered species? Programs like the Hooli Elephant Wildlife Trust won’t save them immediately, but it’s a start.”
+Swift feels familiar to Objective-C developers. It adopts the readability of Objective-C’s named parameters and the power of Objective-C’s dynamic object model. It provides seamless access to existing Cocoa frameworks and mix-and-match interoperability with Objective-C code. Building from this common ground, Swift introduces many new features and unifies the procedural and object-oriented portions of the language.
+
+Swift is friendly to new programmers. It is the first industrial-quality systems programming language that is as expressive and enjoyable as a scripting language. It supports playgrounds, an innovative feature that allows programmers to experiment with Swift code and see the results immediately, without the overhead of building and running an app.
+
+Swift combines the best in modern language thinking with wisdom from the wider Apple engineering culture. The compiler is optimized for performance, and the language is optimized for development, without compromising on either. It’s designed to scale from “hello, world” to an entire operating system. All this makes Swift a sound future investment for developers and for Apple.
+
+Swift is a fantastic way to write iOS, macOS, watchOS, and tvOS apps, and will continue to evolve with new features and capabilities. Our goals for Swift are ambitious. We can’t wait to see what you create with it.

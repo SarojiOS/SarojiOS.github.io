@@ -51,17 +51,17 @@ hightlightjs = true
 
 ## Main Menu
 [[menu.main]]
-    name = "blog"
-    weight = 100
-    identifier = "blog"
+    name = "Blog"
+    weight = 200
+    identifier = "Blog"
     url = "/blog/"
 [[menu.main]]
-    name = "about"
-    identifier = "about"
+    name = "About"
+    identifier = "About"
     weight = 200
     url = "/about/"
 [[menu.main]]
-    name = "resume"
-    identifier = "resume"
+    name = "Resume"
+    identifier = "Resume"
     weight = 200
     url = "/resume/"
